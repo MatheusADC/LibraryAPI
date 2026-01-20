@@ -15,7 +15,12 @@ npm init -y
 npm i
 ```
 
-### Run the server
+### Run server
 ```
 node server.js
+```
+
+### Run NoSQL server
+```
+node serverNoSQL.js
 ```
